@@ -77,7 +77,9 @@ The dataset contains:
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here.)
+## Dashboard Preview
+
+![Dashboard](Dashboard_Screenshot.png)
 
 ---
 
