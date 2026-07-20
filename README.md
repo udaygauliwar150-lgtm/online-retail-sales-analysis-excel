@@ -78,8 +78,8 @@ The dataset contains:
 ## Dashboard Preview
 
 The dashboard provides an interactive overview of international retail sales performance, including KPIs, monthly trends, top customers, products, and markets.
-
-![Dashboard](Dashboard_Screenshot.png)
+<img width="1371" height="662" alt="Global Dashboard" src="https://github.com/user-attachments/assets/ca8e5d1e-5c02-4ef1-bc62-eace611159eb" />
+<img width="1372" height="662" alt="International Dashboard" src="https://github.com/user-attachments/assets/d5729e5f-ea49-49ed-9ee6-cb7e4616a1bb" />
 
 ## Skills Demonstrated
 
